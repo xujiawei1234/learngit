@@ -7,7 +7,16 @@ abcd
 abcd
 123
 add func1
+<<<<<<< HEAD
 
 
 
 add func1   343453456436967877854
+=======
+<<<<<<< HEAD
+code conclick2
+
+=======
+
+
+>>>>>>> 249a076... Merge branch 'master' of github.com:xujiawei1234/learngit
